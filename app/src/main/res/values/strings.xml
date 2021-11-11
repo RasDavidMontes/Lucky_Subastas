@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lucky\nAuctions</string>
+
+    <string name="hint_clave">Your Password</string>
+    <string name="hint_usuario">Your User</string>
+    <string name="hint_registration">Please fill out the form correctly</string>
+
+    <string name="txt_clave">Password</string>
+    <string name="txt_usuario">User</string>
+    <string name="txt_nombres">Names</string>
+    <string name="txt_apellidos">Lastnames</string>
+    <string name="txt_telefono">Phone</string>
+    <string name="txt_correo">E-Mail</string>
+    <string name="txt_direccion">Adress</string>
+    <string name="txt_ciudad">City</string>
+    <string name="txt_sin_cuenta">Doesn´t have an account?</string>
+    <string name="txt_choose">Choose the products you want to add to your account</string>
+
+    <string name="btn_perfil">Log in</string>
+    <string name="btn_registro">Check in</string>
+    <string name="btn_acerca">About us</string>
+    <string name="btn_regresar">Return</string>
+    <string name="btn_confirmar">Confirm</string>
+    <string name="txt_user_register">User Register</string>
+    <string name="btn_cancelar">Cancel</string>
+
+</resources>
