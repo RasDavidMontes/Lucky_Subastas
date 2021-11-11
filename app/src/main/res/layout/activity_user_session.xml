@@ -54,11 +54,11 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:gravity="center|end"
-                android:paddingTop="60dp"
+                android:paddingTop="40dp"
                 android:paddingEnd="40dp"
                 android:paddingStart="80dp"
                 android:paddingBottom="60dp"
-                android:background="@color/teal_700"
+                android:background="@color/teal_200"
                 >
                 <EditText
                     android:layout_width="match_parent"
